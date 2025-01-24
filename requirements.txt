@@ -1,0 +1,11 @@
+python-multipart
+sqlalchemy
+jwt
+fastapi
+python-dotenv
+uvicorn
+mypy
+google-cloud-storage
+bcrypt
+psycopg2-binary
+pydantic

@@ -8,6 +8,3 @@ conversation_architecture.json
 conversation_brainstorm.json
 conversation_code.json
 test.db
-
-Dockerfile
-deploy.sh
